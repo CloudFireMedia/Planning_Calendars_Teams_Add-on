@@ -1,0 +1,11 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "PCT",
+      "libraryId": "1SP8JzLXNTQoJhsdk2PsQAd55zASip_bRYPoAaWAe6O9Ey0c4Ag-W6XSg",
+      "version": "2"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
